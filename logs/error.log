@@ -1,0 +1,528 @@
+2023-03-21 15:17:26 Error: [Cake\View\Exception\MissingTemplateException] Template file "Links\view.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Request URL: /7iw0gW5
+
+
+2023-03-21 15:17:33 Error: [Cake\View\Exception\MissingTemplateException] Template file "Links\view.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Request URL: /7iw0gW5
+
+
+2023-03-21 16:18:54 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /1/7iw0gW5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2F1%2F7iw0gW5
+
+
+2023-03-21 16:19:38 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /1/7iw0gW5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2F1%2F7iw0gW5
+
+
+2023-03-21 16:19:41 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /1/7iw0gW5
+
+
+2023-03-21 16:20:41 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /1
+
+
+2023-03-21 16:21:02 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /1
+
+
+2023-03-21 16:36:25 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /7iw0gW5/1
+
+
+2023-03-21 16:38:26 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /7iw0gW5/1
+
+
+2023-03-21 16:38:29 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /7iw0gW5/1
+
+
+2023-03-21 17:08:23 Error: [Error] Call to undefined method Cake\Routing\Router::currentRouteName() (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Controller\AdsController.php:11)
+Request URL: /ads1/kkj
+
+
+2023-03-23 16:38:53 Error: [Cake\View\Exception\MissingTemplateException] Template file "Ads\adstwo.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Request URL: /ads2/2kwWL5
+
+
+2023-03-23 16:39:00 Error: [Cake\View\Exception\MissingTemplateException] Template file "Ads\adstwo.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Request URL: /ads2/2kwWL5
+
+
+2023-03-23 16:39:02 Error: [Cake\View\Exception\MissingTemplateException] Template file "Ads\adstwo.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Request URL: /ads2/2kwWL5
+
+
+2023-03-23 17:19:48 Error: [Error] Class "App\Controller\App" not found (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Controller\AdsController.php:23)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:09:22 Error: [Error] Object of class Cake\ORM\Table could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:102)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:13:05 Error: [Error] Object of class Cake\ORM\Table could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:102)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:13:08 Error: [Error] Object of class Cake\ORM\Table could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:102)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:14:37 Error: [Error] Object of class Cake\ORM\Table could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:102)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:14:39 Error: [Error] Object of class Cake\ORM\Table could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:102)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:14:46 Error: [Error] Object of class Cake\ORM\Table could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:102)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:18:00 Error: [Error] Object of class Cake\ORM\Table could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:102)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:20:22 Error: [Error] Object of class Cake\ORM\Table could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:105)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:27:30 Error: [TypeError] mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:112)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:29:49 Error: [Error] Object of class mysqli_result could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:113)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:30:25 Error: [Error] Object of class mysqli_result could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:113)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:30:52 Error: [Error] Object of class mysqli_result could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:113)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:32:20 Error: [Error] Object of class mysqli_result could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:113)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:33:15 Error: [Error] Call to undefined function mysql_connect() (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:109)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:36:57 Error: [Error] Object of class mysqli_result could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:113)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:43:14 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.link' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:132)
+Caused by: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.link' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:37)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:46:12 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.user' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:132)
+Caused by: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.user' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:37)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:48:36 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.user' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:132)
+Caused by: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.user' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:37)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:52:57 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin CloudTheme could not be found. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\PluginCollection.php:207)
+#0 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\Plugin.php(254): Cake\Core\PluginCollection->get('CloudTheme')
+#1 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\App.php(189): Cake\Core\Plugin::classPath('CloudTheme')
+#2 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1786): Cake\Core\App::path('Template', 'CloudTheme')
+#3 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1600): Cake\View\View->_paths(NULL)
+#4 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\View->_getViewFileName('Error\\error500')
+#5 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(410): Cake\View\View->render('error500', 'error')
+#6 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(385): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#7 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(243): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#8 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php(137): Cake\Error\ExceptionRenderer->render()
+#9 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(202): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#10 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(186): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#12 {main} in [C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php, line 181]
+
+
+2023-03-23 18:53:02 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin CloudTheme could not be found. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\PluginCollection.php:207)
+#0 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\Plugin.php(254): Cake\Core\PluginCollection->get('CloudTheme')
+#1 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\App.php(189): Cake\Core\Plugin::classPath('CloudTheme')
+#2 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1786): Cake\Core\App::path('Template', 'CloudTheme')
+#3 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1600): Cake\View\View->_paths(NULL)
+#4 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\View->_getViewFileName('Error\\error500')
+#5 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(410): Cake\View\View->render('error500', 'error')
+#6 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(385): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#7 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(243): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#8 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php(137): Cake\Error\ExceptionRenderer->render()
+#9 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(202): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#10 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(186): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#12 {main} in [C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php, line 181]
+
+
+2023-03-23 18:53:07 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin CloudTheme could not be found. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\PluginCollection.php:207)
+#0 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\Plugin.php(254): Cake\Core\PluginCollection->get('CloudTheme')
+#1 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\App.php(189): Cake\Core\Plugin::classPath('CloudTheme')
+#2 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1786): Cake\Core\App::path('Template', 'CloudTheme')
+#3 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1600): Cake\View\View->_paths(NULL)
+#4 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\View->_getViewFileName('Error\\error500')
+#5 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(410): Cake\View\View->render('error500', 'error')
+#6 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(385): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#7 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(243): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#8 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php(137): Cake\Error\ExceptionRenderer->render()
+#9 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(202): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#10 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(186): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#12 {main} in [C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php, line 181]
+
+
+2023-03-23 18:53:13 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin CloudTheme could not be found. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\PluginCollection.php:207)
+#0 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\Plugin.php(254): Cake\Core\PluginCollection->get('CloudTheme')
+#1 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\App.php(189): Cake\Core\Plugin::classPath('CloudTheme')
+#2 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1786): Cake\Core\App::path('Template', 'CloudTheme')
+#3 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1600): Cake\View\View->_paths(NULL)
+#4 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\View->_getViewFileName('Error\\error500')
+#5 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(410): Cake\View\View->render('error500', 'error')
+#6 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(385): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#7 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(243): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#8 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php(137): Cake\Error\ExceptionRenderer->render()
+#9 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(202): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#10 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(186): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#12 {main} in [C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php, line 181]
+
+
+2023-03-23 18:53:58 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin CloudTheme could not be found. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\PluginCollection.php:207)
+#0 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\Plugin.php(254): Cake\Core\PluginCollection->get('CloudTheme')
+#1 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\App.php(189): Cake\Core\Plugin::classPath('CloudTheme')
+#2 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1786): Cake\Core\App::path('Template', 'CloudTheme')
+#3 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1600): Cake\View\View->_paths(NULL)
+#4 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\View->_getViewFileName('Error\\error500')
+#5 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(410): Cake\View\View->render('error500', 'error')
+#6 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(385): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#7 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(243): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#8 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php(137): Cake\Error\ExceptionRenderer->render()
+#9 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(202): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#10 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(186): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#12 {main} in [C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php, line 181]
+
+
+2023-03-23 18:54:18 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin CloudTheme could not be found. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\PluginCollection.php:207)
+#0 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\Plugin.php(254): Cake\Core\PluginCollection->get('CloudTheme')
+#1 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\App.php(189): Cake\Core\Plugin::classPath('CloudTheme')
+#2 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1786): Cake\Core\App::path('Template', 'CloudTheme')
+#3 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1600): Cake\View\View->_paths(NULL)
+#4 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\View->_getViewFileName('Error\\error500')
+#5 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(410): Cake\View\View->render('error500', 'error')
+#6 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(385): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#7 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(243): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#8 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php(137): Cake\Error\ExceptionRenderer->render()
+#9 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(202): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#10 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(186): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#12 {main} in [C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php, line 181]
+
+
+2023-03-23 18:54:28 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin CloudTheme could not be found. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\PluginCollection.php:207)
+#0 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\Plugin.php(254): Cake\Core\PluginCollection->get('CloudTheme')
+#1 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\App.php(189): Cake\Core\Plugin::classPath('CloudTheme')
+#2 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1786): Cake\Core\App::path('Template', 'CloudTheme')
+#3 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1600): Cake\View\View->_paths(NULL)
+#4 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\View->_getViewFileName('Error\\error500')
+#5 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(410): Cake\View\View->render('error500', 'error')
+#6 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(385): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#7 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(243): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#8 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php(137): Cake\Error\ExceptionRenderer->render()
+#9 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(202): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#10 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(186): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#12 {main} in [C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php, line 181]
+
+
+2023-03-23 18:55:48 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin CloudTheme could not be found. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\PluginCollection.php:207)
+#0 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\Plugin.php(254): Cake\Core\PluginCollection->get('CloudTheme')
+#1 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Core\App.php(189): Cake\Core\Plugin::classPath('CloudTheme')
+#2 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1786): Cake\Core\App::path('Template', 'CloudTheme')
+#3 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(1600): Cake\View\View->_paths(NULL)
+#4 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\View->_getViewFileName('Error\\error500')
+#5 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(410): Cake\View\View->render('error500', 'error')
+#6 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(385): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#7 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ExceptionRenderer.php(243): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#8 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php(137): Cake\Error\ExceptionRenderer->render()
+#9 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(202): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#10 C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(186): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#12 {main} in [C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Error\ErrorHandler.php, line 181]
+
+
+2023-03-23 18:56:01 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.user' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:132)
+Caused by: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.user' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:37)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:56:42 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.link' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:132)
+Caused by: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table '22_shortcurt.link' doesn't exist (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:37)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:56:55 Error: [Error] Call to a member function find() on bool (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Controller\AdsController.php:25)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:57:12 Error: [Error] Call to a member function find() on bool (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Controller\AdsController.php:25)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-23 18:59:55 Error: [Error] Object of class App\Model\Table\LinksTable could not be converted to string (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Ads\ads3.ctp:103)
+Request URL: /ads3/2kwWL5
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/ads2/2kwWL5
+
+
+2023-03-24 08:07:02 Error: [InvalidArgumentException] The "_cake_model_" cache configuration does not exist. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Cache\Cache.php:166)
+Request URL: /member/withdraws
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2Fmember%2Fwithdraws
+
+
+2023-03-24 08:07:48 Error: [InvalidArgumentException] The "_cake_core_" cache configuration does not exist. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Cache\Cache.php:166)
+Request URL: /member/withdraws
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2Fmember%2Fwithdraws
+
+
+2023-03-24 08:08:35 Error: [InvalidArgumentException] The "_cake_model_" cache configuration does not exist. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Cache\Cache.php:166)
+Request URL: /member/withdraws
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2Fmember%2Fwithdraws
+
+
+2023-03-24 08:15:25 Error: [InvalidArgumentException] The "_cake_core_" cache configuration does not exist. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Cache\Cache.php:166)
+Request URL: /member/withdraws
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2Fmember%2Fwithdraws
+
+
+2023-03-24 08:16:58 Error: [InvalidArgumentException] The "_cake_model_" cache configuration does not exist. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Cache\Cache.php:166)
+Request URL: /member/withdraws
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2Fmember%2Fwithdraws
+
+
+2023-03-24 08:17:00 Error: [InvalidArgumentException] The "_cake_model_" cache configuration does not exist. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Cache\Cache.php:166)
+Request URL: /member/withdraws
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2Fmember%2Fwithdraws
+
+
+2023-03-24 08:43:11 Error: [Cake\View\Exception\MissingTemplateException] Template file "Adminads\admin_show.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Adminads\\admin_show.ctp',
+)
+Request URL: /member/users/ads
+
+
+2023-03-24 08:43:27 Error: [Cake\View\Exception\MissingTemplateException] Template file "Adminads\admin_show.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Adminads\\admin_show.ctp',
+)
+Request URL: /member/users/ads
+
+
+2023-03-24 08:43:40 Error: [Cake\View\Exception\MissingTemplateException] Template file "Adminads\admin_show.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Adminads\\admin_show.ctp',
+)
+Request URL: /member/users/ads
+
+
+2023-03-24 08:43:41 Error: [Cake\View\Exception\MissingTemplateException] Template file "Adminads\admin_show.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Adminads\\admin_show.ctp',
+)
+Request URL: /member/users/ads
+
+
+2023-03-24 08:51:21 Error: [Error] Call to a member function findById() on bool (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Controller\AdminadsController.php:10)
+Request URL: /member/users/ads
+
+
+2023-03-24 08:53:00 Error: [Cake\View\Exception\MissingTemplateException] Template file "Member\Users\ads.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Member\\Users\\ads.ctp',
+)
+Request URL: /member/users/ads
+
+
+2023-03-24 08:53:46 Error: [Cake\View\Exception\MissingTemplateException] Template file "Member\Users\ads.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Member\\Users\\ads.ctp',
+)
+Request URL: /member/users/ads
+
+
+2023-03-24 09:21:46 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /ads1/lJd3p
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/lJd3p
+
+
+2023-03-24 09:22:35 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /ads2/lJd3p
+
+
+2023-03-24 09:23:28 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /ads2/lJd3p
+
+
+2023-03-24 09:26:03 Error: [Error] Call to a member function allow() on bool (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Controller\LinksController.php:28)
+Request URL: /ads2/lJd3p
+
+
+2023-03-24 09:26:14 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /ads2/lJd3p
+
+
+2023-03-24 09:26:17 Error: [Cake\Core\Exception\Exception] App\Controller\LinksController does not implement an isAuthorized() method. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Auth\ControllerAuthorize.php:72)
+Request URL: /ads2/lJd3p
+
+
+2023-03-24 09:26:55 Error: [Cake\Controller\Exception\MissingComponentException] Component class AuthorizationComponent could not be found. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Controller\ComponentRegistry.php:103)
+Exception Attributes: array (
+  'class' => 'AuthorizationComponent',
+  'plugin' => 'Authorization',
+)
+Request URL: /ads2/lJd3p
+
+
+2023-03-24 09:29:14 Error: [Cake\View\Exception\MissingTemplateException] Template file "Links\adstwo.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Links\\adstwo.ctp',
+)
+Request URL: /ads2/lJd3p
+
+
+2023-03-24 10:03:10 Error: [Error] Call to a member function find() on bool (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Controller\Member\UsersController.php:407)
+Request URL: /member/users/ads
+
+
+2023-03-24 13:16:32 Error: [Cake\View\Exception\MissingTemplateException] Template file "Api\adsaupdate.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Api\\adsaupdate.ctp',
+)
+Request URL: /api/ads_update
+
+
+2023-03-24 13:44:07 Error: [Error] Call to undefined function url() (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Member\Users\ads.ctp:9)
+Request URL: /member/users/ads
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2Fmember%2Fusers%2Fads
+
+
+2023-03-24 13:44:16 Error: [Error] Call to undefined function url() (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Member\Users\ads.ctp:9)
+Request URL: /member/users/ads
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2Fmember%2Fusers%2Fads
+
+
+2023-03-24 14:13:17 Error: [ParseError] syntax error, unexpected token "}", expecting "," or ";" (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Member\Users\ads.ctp:11)
+Request URL: /member/users/ads
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/auth/signin?redirect=%2Fmember%2Fusers%2Fads
+
+
+2023-03-24 17:09:42 Error: [Error] Call to a member function get() on bool (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Controller\LinksController.php:50)
+Request URL: /ojC3QjO
+
+
+2023-03-24 17:16:10 Error: [ParseError] syntax error, unexpected token ")" (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\src\Template\Links\view.ctp:78)
+Request URL: /ojC3QjO
+
+
+2023-03-26 14:29:19 Error: [Cake\View\Exception\MissingTemplateException] Template file "Links\adsone.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Links\\adsone.ctp',
+)
+Request URL: /jhgfdt/klk
+
+
+2023-03-26 14:29:19 Error: [Cake\View\Exception\MissingTemplateException] Template file "Links\adsone.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Links\\adsone.ctp',
+)
+Request URL: /jhgfdt/klk
+
+
+2023-03-26 14:29:31 Error: [Cake\View\Exception\MissingTemplateException] Template file "Links\adsone.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Links\\adsone.ctp',
+)
+Request URL: /jhgfdt/klk
+
+
+2023-03-26 14:29:40 Error: [Cake\View\Exception\MissingTemplateException] Template file "Links\adsone.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\View\View.php:1605)
+Exception Attributes: array (
+  'file' => 'Links\\adsone.ctp',
+)
+Request URL: /jhgfdt/klk
+
+
+2023-03-26 14:52:15 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ads.link' in 'field list' (C:\xampp\htdocs\data\laravel\22_client_site_20\01_shrotcut\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:37)
+Request URL: /member/users/ads
+Referer URL: http://localhost/data/laravel/22_client_site_20/01_shrotcut/member/users/referrals
+
+
+2023-04-06 18:47:16 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'masudran_projects22'@'localhost' (using password: YES) (C:\xampp\htdocs\data\laravel\22_projects-Shorturl\vendor\cakephp\cakephp\src\Database\Driver.php:93)
+Request URL: /
+Referer URL: http://localhost/data/laravel/
+
+
+2023-04-06 19:49:37 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'masudran_projects22'@'localhost' (using password: YES) (C:\xampp\htdocs\data\laravel\22_projects-Shorturl\vendor\cakephp\cakephp\src\Database\Driver.php:93)
+Request URL: /
+Referer URL: http://localhost/data/laravel/
+
+
+2023-04-06 19:57:16 Error: [Cake\View\Exception\MissingElementException] Element file "Element\js_vars.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_projects-Shorturl\vendor\cakephp\cakephp\src\View\View.php:790)
+Exception Attributes: array (
+  0 => 'Element\\js_vars.ctp',
+)
+Request URL: /
+Referer URL: http://localhost/data/laravel/22_projects-Shorturl/,,,
+
+
+2023-04-06 20:00:01 Error: [Cake\View\Exception\MissingElementException] Element file "Element\js_vars.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_projects-Shorturl\vendor\cakephp\cakephp\src\View\View.php:790)
+Exception Attributes: array (
+  0 => 'Element\\js_vars.ctp',
+)
+Request URL: /
+Referer URL: http://localhost/data/laravel/22_projects-Shorturl/,,,
+
+
+2023-04-06 20:02:19 Error: [Cake\View\Exception\MissingElementException] Element file "Element\js_vars.ctp" is missing. (C:\xampp\htdocs\data\laravel\22_projects-Shorturl\vendor\cakephp\cakephp\src\View\View.php:790)
+Exception Attributes: array (
+  0 => 'Element\\js_vars.ctp',
+)
+Request URL: /
+Referer URL: http://localhost/data/laravel/22_projects-Shorturl/,,,
+
+
